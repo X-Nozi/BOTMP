@@ -1,7 +1,4 @@
-# Bot-MP
-Mp Bot
 
-Discord: 𝑷𝒖𝒓𝒑𝒍𝒆 𝑯𝒂𝒛𝒆#6031
 
 aller dans botconfig si vous voulez changer le préfix.
 
